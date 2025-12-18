@@ -1,5 +1,5 @@
 # 💫 About Me:
-I am a full-stack developer focused on building high-quality, efficient, and scalable solutions. I enjoy turning complex ideas into clean, maintainable code and continuously improving both my technical and problem-solving skills. I value collaboration, clarity, and writing software that makes an impact.
+I am a full-stack developer focused on building high-quality, efficient, and scalable solutions. I enjoy turning complex ideas into clean, maintainable code and continuously improving both my technical and problem-solving skills.
 
 
 ## 🌐 Socials:
